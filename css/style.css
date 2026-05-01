@@ -20,6 +20,7 @@ justify-content: space-between;
 align-items: center;
 padding: 15px 20px;
 background: #111;
+ overflow-x: auto;
 }
 
 .logo-container img {
@@ -31,7 +32,6 @@ list-style: none;
 display: flex;
 justify-content: space-between;
 gap: 15px;
-overflow-x: auto;
 }
 
 .main-menu a:hover {
