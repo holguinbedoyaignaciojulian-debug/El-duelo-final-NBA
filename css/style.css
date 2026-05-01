@@ -31,7 +31,7 @@ list-style: none;
 display: flex;
 justify-content: space-between;
 gap: 15px;
-overflow-x;
+overflow-x: auto;
 }
 
 .main-menu a:hover {
